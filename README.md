@@ -1,4 +1,4 @@
-# A Python Querying App using Streamlit
+# A Streamlit Querying App
 
 ### CSCE 5200
 * Bryan Adams 
